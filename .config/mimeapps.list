@@ -1,0 +1,7 @@
+[Default Applications]
+x-scheme-handler/jetbrains=jetbrains-toolbox.desktop
+x-scheme-handler/msteams=teams.desktop
+
+[Added Associations]
+application/x-ms-dos-executable=wine.desktop;
+application/pdf=org.pwmt.zathura.desktop;
